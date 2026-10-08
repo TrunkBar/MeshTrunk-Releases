@@ -39,7 +39,6 @@ https://github.com/TrunkBar/MeshTrunk-Releases/releases
 - 建议内存 8GB 以上，模型较大时建议 16GB 以上。
 - 建议预留 5GB 以上磁盘空间，实际空间取决于上传模型数量。
 - 需要可用浏览器，例如 Edge、Chrome。
-- 安装包已内置 Java 运行环境，用户不需要单独安装 Java。
 
 ### 使用 MSI 安装包
 
@@ -89,7 +88,6 @@ http://localhost:7998
 - 建议内存 8GB 以上，模型较大时建议 16GB 以上。
 - 建议预留 5GB 以上磁盘空间，实际空间取决于上传模型数量。
 - 需要可用浏览器访问 Web 页面。
-- 安装包已内置 Java 运行环境，用户不需要单独安装 Java。
 
 极简 Linux、NAS Docker 或容器环境如遇到验证码、缩略图相关字体错误，请安装字体组件：
 
