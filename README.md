@@ -6,6 +6,13 @@ MeshTrunk 是一套面向 3D 打印模型库的本地管理软件，用于上传
 http://localhost:7998
 ```
 
+默认登录信息：
+
+```text
+账号：admin
+密码：3dmaker
+```
+
 ![MeshTrunk 功能界面展示](docs/images/meshtrunk-showcase.gif)
 
 ## 功能介绍
